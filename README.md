@@ -1,6 +1,8 @@
 <!-- ===================== HEADER ===================== -->
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Gunturi%20Gayathri&fontSize=40&fontColor=00F7FF&animation=fadeIn&fontAlignY=35"/> </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Gunturi%20Gayathri&fontSize=40&fontColor=00F7FF&animation=fadeIn&fontAlignY=35"/>
+</p>
 
 <h1 align="center">⚡ AI/ML Enthusiast | Software Engineer | Tech Explorer ⚡</h1>
 
@@ -40,12 +42,10 @@
 
 I'm a **B.Tech Computer Science student at MVSR Engineering College (graduating 2027)** who enjoys turning ML ideas into working, explainable products.
 
-| | |
-|---|---|
-| 🎓 **Education** | B.Tech in Computer Science — MVSR Engineering College (Expected 2027) |
-| 🎯 **Focus** | AI/ML • Generative AI • Software Engineering |
-| 🌱 **Learning now** | RAG • LLM Applications • Data Structures & Algorithms • AI/ML System Development |
-| 🤝 **Open to** | Software Engineering and AI/ML roles, internships and collaborations |
+* 🎓 **Education:** B.Tech in Computer Science — MVSR Engineering College (Expected 2027)
+* 🎯 **Focus:** AI/ML • Generative AI • Software Engineering
+* 🌱 **Learning now:** RAG • LLM Applications • Data Structures & Algorithms • AI/ML System Development
+* 🤝 **Open to:** Software Engineering and AI/ML roles, internships and collaborations
 
 ---
 
@@ -70,20 +70,16 @@ I'm a **B.Tech Computer Science student at MVSR Engineering College (graduating 
 
 ## 🚀 Featured Projects
 
-| Project | Stack | What it does |
-|---|---|---|
-| ⚡ **[Electricity Demand Forecasting](https://github.com/Gayathri-Gunturi/Electricity-Demand-Forecasting-using-ML-GenAI)** | Python, Scikit-learn, Groq | Time-series demand forecasting with lag features, peak-demand classification, workload-shifting simulation and LLM-generated insights |
-| 🔍 **[AI Production Incident Investigator](https://github.com/Gayathri-Gunturi/AI-Incident-Response-Agent)** | Python, FastAPI, Scikit-learn, SQLite | Detects log anomalies (Isolation Forest + rules), builds incident timelines, suggests root cause, severity and fixes |
-| 🎓 **Smart Student Search System** | Python, Flask, NLP, TF-IDF, SQLite | Role-based profiles with recruiter search using TF-IDF and cosine similarity |
+* ⚡ **[Electricity Demand Forecasting](https://github.com/Gayathri-Gunturi/Electricity-Demand-Forecasting-using-ML-GenAI)** — Forecasts electricity demand, identifies peak demand, simulates workload shifting, and generates actionable insights.
+* 🔍 **[AI Production Incident Investigator](https://github.com/Gayathri-Gunturi/AI-Incident-Response-Agent)** — Detects production log anomalies and provides incident timelines, root-cause analysis, severity classification, and remediation suggestions.
+* 🎓 **Smart Student Search System** — Enables recruiter-focused student profile search using semantic similarity.
 
 ---
 
 ## 💼 Experience
 
-| Role | Period | Highlights |
-|---|---|---|
-| 🐍 **Python Developer Intern** — Infosys Springboard | Oct – Dec 2024 | Built a weather and air-quality monitoring app with REST APIs and data visualization |
-| 🤖 **AI-ML Virtual Intern** — AICTE EduSkills | Apr – Jun 2025 | Worked on core AI/ML concepts and practical ML workflows |
+* 🐍 **Python Developer Intern — Infosys Springboard** | Oct–Dec 2024 — Developed a weather and air-quality monitoring application.
+* 🤖 **AI-ML Virtual Intern — AICTE EduSkills** | Apr–Jun 2025 — Gained hands-on experience with Artificial Intelligence and Machine Learning workflows.
 
 ---
 
@@ -94,9 +90,8 @@ I'm a **B.Tech Computer Science student at MVSR Engineering College (graduating 
   <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-72%25-8A2BE2?style=for-the-badge"/>
 </p>
 
-- 🏅 **NPTEL Elite Certification** — Data Structures and Algorithms
-- 👩‍💻 **Technical Coordinator** — CSE Club, MVSR Engineering College
-- 🏫 **Member** — Computer Society of India
+* 🏅 **NPTEL Elite Certification** — Data Structures and Algorithms
+* 🏫 **Member** — Computer Society of India
 
 ---
 
@@ -116,13 +111,9 @@ I'm a **B.Tech Computer Science student at MVSR Engineering College (graduating 
 ## 🧩 Problem Solving
 
 <p align="center">
-  <a href="https://leetcode.com/">
+  <a href="https://leetcode.com/u/gayathrig_developer/m/">
     <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-</p>
-
-<p align="center">
-  <strong>Arrays • Strings • Hashing • Linked Lists • Stacks • Queues • Algorithms</strong>
 </p>
 
 ---
@@ -131,7 +122,7 @@ I'm a **B.Tech Computer Science student at MVSR Engineering College (graduating 
   <i>BUILD • LEARN • EXPERIMENT • GROW — let's build something intelligent together. 🚀</i>
 </p>
 
-<!-- FOOTER -->
+<!-- ===================== FOOTER ===================== -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
