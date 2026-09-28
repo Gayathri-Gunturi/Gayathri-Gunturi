@@ -70,16 +70,16 @@ I'm a **B.Tech Computer Science student at MVSR Engineering College (graduating 
 
 ## 🚀 Featured Projects
 
-* ⚡ **[Electricity Demand Forecasting](https://github.com/Gayathri-Gunturi/Electricity-Demand-Forecasting-using-ML-GenAI)** — Forecasts electricity demand, identifies peak demand, simulates workload shifting, and generates actionable insights.
-* 🔍 **[AI Production Incident Investigator](https://github.com/Gayathri-Gunturi/AI-Incident-Response-Agent)** — Detects production log anomalies and provides incident timelines, root-cause analysis, severity classification, and remediation suggestions.
+* ⚡ **Electricity Demand Forecasting** — Forecasts electricity demand, identifies peak demand, simulates workload shifting, and generates actionable insights.
+* 🔍 **AI Production Incident Investigator** — Detects production log anomalies and provides incident timelines, root-cause analysis, severity classification, and remediation suggestions.
 * 🎓 **Smart Student Search System** — Enables recruiter-focused student profile search using semantic similarity.
 
 ---
 
 ## 💼 Experience
 
-* 🐍 **Python Developer Intern — Infosys Springboard** | Oct–Dec 2024 — Developed a weather and air-quality monitoring application.
-* 🤖 **AI-ML Virtual Intern — AICTE EduSkills** | Apr–Jun 2025 — Gained hands-on experience with Artificial Intelligence and Machine Learning workflows.
+* 🐍 **Python Developer Intern — Infosys Springboard** — Developed a weather and air-quality monitoring application.
+* 🤖 **AI-ML Virtual Intern — AICTE EduSkills**  — Gained hands-on experience with Artificial Intelligence and Machine Learning workflows.
 
 ---
 
