@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Gunturi%20Gayathri&fontSize=40&fontColor=00F7FF&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=260&text=Gunturi%20Gayathri&fontSize=52&fontColor=ffffff&color=gradient&customColorList=12&desc=AI%2FML%20%E2%80%A2%20Generative%20AI%20%E2%80%A2%20Software%20Engineering&descSize=20&descAlignY=68&animation=fadeIn"/>
 </p>
 
 <h1 align="center">⚡ AI/ML Enthusiast | Software Engineer | Tech Explorer ⚡</h1>
@@ -40,13 +40,13 @@
 
 ## 👩‍💻 About Me
 
-I'm a **B.Tech Computer Science student at MVSR Engineering College (graduating 2027)** who enjoys turning ML ideas into working, explainable products. My projects pair classical ML with modern GenAI: forecasting with natural-language insights, anomaly detection with root-cause reports, and NLP-based search.
+I'm a **B.Tech Computer Science student at MVSR Engineering College (graduating 2027)** who enjoys turning ML ideas into working, explainable products.
 
 | | |
 |---|---|
 | 🎓 **Education** | B.Tech in Computer Science — MVSR Engineering College (Expected 2027) |
 | 🎯 **Focus** | AI/ML • Generative AI • Software Engineering • Intelligent Automation |
-| 🌱 **Learning now** | Retrieval-Augmented Generation (RAG) • LLM Applications • Data Structures & Algorithms • AI/ML System Development |
+| 🌱 **Learning now** | RAG • LLM Applications • Data Structures & Algorithms • AI/ML System Development |
 | 🤝 **Open to** | Software Engineering and AI/ML roles, internships and collaborations |
 
 ---
@@ -54,17 +54,14 @@ I'm a **B.Tech Computer Science student at MVSR Engineering College (graduating 
 ## ⚡ Tech Arsenal
 
 <p align="center">
-  <b>Languages & Tools</b><br><br>
   <img src="https://skillicons.dev/icons?i=python,c,java,mysql,git,github&theme=dark"/>
 </p>
 
 <p align="center">
-  <b>Frameworks & Libraries</b><br><br>
   <img src="https://skillicons.dev/icons?i=flask,fastapi,sqlite,sklearn&theme=dark"/>
 </p>
 
 <p align="center">
-  <b>Core Skills</b><br><br>
   <img src="https://img.shields.io/badge/Machine%20Learning-00F7FF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Natural%20Language%20Processing-8A2BE2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Generative%20AI-FF00FF?style=for-the-badge"/>
@@ -75,59 +72,20 @@ I'm a **B.Tech Computer Science student at MVSR Engineering College (graduating 
 
 ## 🚀 Featured Projects
 
-### ⚡ Electricity Demand Forecasting
-`Python` `Scikit-learn` `Groq` `Time-Series`
-
-> Forecasts electricity demand and explains the results in plain language.
-
-- 📈 Built a time-series forecasting model with `HistGradientBoostingRegressor`
-- 🧮 Engineered temporal and lag-based features to improve demand prediction
-- 🔺 Added peak-demand classification and a workload-shifting simulation
-- 💬 Integrated **Groq LLM** to turn forecast outputs into natural-language insights
-
-🔗 **[View Project](https://github.com/Gayathri-Gunturi/Electricity-Demand-Forecasting-using-ML-GenAI)**
-
----
-
-### 🔍 AI Production Incident Investigator
-`Python` `FastAPI` `Scikit-learn` `SQLite`
-
-> An incident-response assistant that finds anomalies in logs and explains why they happened.
-
-- 🚨 Detects anomalous production events using **Isolation Forest** plus rule-based checks
-- 🕒 Groups related incidents into timelines for faster investigation
-- 🧭 Generates explainable root-cause information, severity levels and remediation suggestions
-- 🌐 Exposes the workflow through a **FastAPI** backend with **SQLite** storage
-
-🔗 **[View Project](https://github.com/Gayathri-Gunturi/AI-Incident-Response-Agent)**
-
----
-
-### 🎓 Smart Student Search System
-`Python` `Flask` `NLP` `TF-IDF` `SQLite`
-
-> A recruiter-friendly platform for discovering student profiles by meaning, not just keywords.
-
-- 👥 Built a role-based student profile management system
-- 🔎 Implemented recruiter-oriented search using **TF-IDF and cosine similarity** for semantic matching
-- 🗄️ Managed profile and application data with SQLite
+| Project | Stack | What it does |
+|---|---|---|
+| ⚡ **[Electricity Demand Forecasting](https://github.com/Gayathri-Gunturi/Electricity-Demand-Forecasting-using-ML-GenAI)** | Python, Scikit-learn, Groq | Time-series demand forecasting with lag features, peak-demand classification, workload-shifting simulation and LLM-generated insights |
+| 🔍 **[AI Production Incident Investigator](https://github.com/Gayathri-Gunturi/AI-Incident-Response-Agent)** | Python, FastAPI, Scikit-learn, SQLite | Detects log anomalies (Isolation Forest + rules), builds incident timelines, suggests root cause, severity and fixes |
+| 🎓 **Smart Student Search System** | Python, Flask, NLP, TF-IDF, SQLite | Role-based profiles with recruiter search using TF-IDF and cosine similarity |
 
 ---
 
 ## 💼 Experience
 
-### 🐍 Python Developer Intern — Infosys Springboard
-`Oct 2024 – Dec 2024`
-
-- Developed a **Weather and Air Quality Monitoring** application in Python
-- Integrated REST APIs to retrieve weather, air-quality and related data
-- Built visualization and monitoring features to make the data easier to interpret
-
-### 🤖 AI-ML Virtual Internship — AICTE EduSkills
-`Apr 2025 – Jun 2025`
-
-- Worked on core Artificial Intelligence and Machine Learning concepts
-- Explored practical applications of ML models and AI workflows
+| Role | Period | Highlights |
+|---|---|---|
+| 🐍 **Python Developer Intern** — Infosys Springboard | Oct – Dec 2024 | Built a weather and air-quality monitoring app with REST APIs and data visualization |
+| 🤖 **AI-ML Virtual Intern** — AICTE EduSkills | Apr – Jun 2025 | Worked on core AI/ML concepts and practical ML workflows |
 
 ---
 
@@ -141,8 +99,6 @@ I'm a **B.Tech Computer Science student at MVSR Engineering College (graduating 
 - 🏅 **NPTEL Elite Certification** — Data Structures and Algorithms
 - 👩‍💻 **Technical Coordinator** — CSE Club, MVSR Engineering College
 - 🏫 **Member** — Computer Society of India
-- 💻 Regularly solving algorithmic problems in Python
-- 🧠 Continuously exploring Machine Learning and Generative AI
 
 ---
 
@@ -173,24 +129,8 @@ I'm a **B.Tech Computer Science student at MVSR Engineering College (graduating 
 
 ---
 
-## 🎯 Current Focus
-
-```text
-╔══════════════════════════════════════════════╗
-║                                              ║
-║       BUILD • LEARN • EXPERIMENT • GROW      ║
-║                                              ║
-║   🤖 Artificial Intelligence                 ║
-║   🧠 Machine Learning                        ║
-║   ✨ Generative AI                           ║
-║   💻 Software Engineering                    ║
-║   🧩 Data Structures & Algorithms            ║
-║                                              ║
-╚══════════════════════════════════════════════╝
-```
-
 <p align="center">
-  <i>Let's build something intelligent together. 🚀</i>
+  <i>BUILD • LEARN • EXPERIMENT • GROW — let's build something intelligent together. 🚀</i>
 </p>
 
 <!-- FOOTER -->
