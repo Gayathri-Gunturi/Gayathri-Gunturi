@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=venom&height=260&text=Gunturi%20Gayathri&fontSize=52&fontColor=ffffff&color=gradient&customColorList=12&desc=AI%2FML%20%E2%80%A2%20Generative%20AI%20%E2%80%A2%20Software%20Engineering&descSize=20&descAlignY=68&animation=fadeIn"/> </p> <h1 align="center">
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Gunturi%20Gayathri&fontSize=40&fontColor=00F7FF&animation=fadeIn&fontAlignY=35"/> </p>
 
 <h1 align="center">⚡ AI/ML Enthusiast | Software Engineer | Tech Explorer ⚡</h1>
 
