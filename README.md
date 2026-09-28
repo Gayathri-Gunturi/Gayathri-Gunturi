@@ -1,8 +1,9 @@
 <!-- ===================== HEADER ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=260&text=Gunturi%20Gayathri&fontSize=52&fontColor=ffffff&color=gradient&customColorList=12&desc=AI%2FML%20%E2%80%A2%20Generative%20AI%20%E2%80%A2%20Software%20Engineering&descSize=20&descAlignY=68&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Uday%20Kiran&fontSize=40&fontColor=00F7FF&animation=fadeIn&fontAlignY=35"/>
 </p>
+
 
 <h1 align="center">⚡ AI/ML Enthusiast | Software Engineer | Tech Explorer ⚡</h1>
 
@@ -45,7 +46,7 @@ I'm a **B.Tech Computer Science student at MVSR Engineering College (graduating 
 | | |
 |---|---|
 | 🎓 **Education** | B.Tech in Computer Science — MVSR Engineering College (Expected 2027) |
-| 🎯 **Focus** | AI/ML • Generative AI • Software Engineering • Intelligent Automation |
+| 🎯 **Focus** | AI/ML • Generative AI • Software Engineering |
 | 🌱 **Learning now** | RAG • LLM Applications • Data Structures & Algorithms • AI/ML System Development |
 | 🤝 **Open to** | Software Engineering and AI/ML roles, internships and collaborations |
 
@@ -54,7 +55,7 @@ I'm a **B.Tech Computer Science student at MVSR Engineering College (graduating 
 ## ⚡ Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,java,mysql,git,github&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=python,c,mysql,git,github&theme=dark"/>
 </p>
 
 <p align="center">
